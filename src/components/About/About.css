@@ -1,0 +1,17 @@
+/* src/components/About/About.css */
+.about-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1rem;
+    line-height: 1.6;
+}
+
+.about-container h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.about-container a {
+    color: var(--link-color);
+    text-decoration: underline;
+}
